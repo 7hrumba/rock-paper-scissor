@@ -1,0 +1,45 @@
+.rock{
+    height: 70px;
+    width: 70px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+.rock:hover{
+    background-color: rgb(68, 9, 110);
+}
+.rock:active{
+    background-color: rgb(81, 96, 109);
+}
+.paper{
+    height: 70px;
+    width: 70px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+.paper:hover{
+    background-color: rgb(68, 9, 110);
+}
+.paper:active{
+    background-color: rgb(81, 96, 109);
+}
+
+.scissors{
+    height: 70px;
+    width: 70px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.scissors:hover{
+    background-color: rgb(68, 9, 110);
+}
+.scissors:active{
+    background-color: rgb(81, 96, 109);
+}
